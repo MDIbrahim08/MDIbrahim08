@@ -1,40 +1,42 @@
-# 🤖 AI & Cybersecurity Enthusiast
+## 👨‍💻 About Me  
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=600&lines=AI+%7C+Data+Science+Learner;Cybersecurity+Explorer;Building+Human-Centered+Tech;Creating+AI-Powered+Projects" />
-</div>
+Hi, I'm **Mohammed Ibrahim** — an AI & Cybersecurity learner who focuses on building simple, smart, and human-centered tech.  
+I like creating small but meaningful projects that teach me something new every week.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+- 🌱 Currently learning **AI, Data Science & Cyber Threat Intelligence**  
+- 🚀 Building practical **AI-powered mini apps**  
+- 🎨 Exploring **p5.js** for creative technolgy  
+- 🔐 Interested in security visualization & threat intelligence  
+- ⚡ Fun fact: I debug faster when the deadline is tomorrow  
 
 ---
 
-## 👨‍💻 About Me
+## 🛠️ Skills & Tools  
 
-```python
-class Ibrahim:
-    def __init__(self):
-        self.name = "Mohammed Ibrahim"
-        self.role = "AI + Cybersecurity Learner"
-        self.location = "India 🇮🇳"
-        self.expertise = [
-            "Machine Learning", "Data Analysis",
-            "Cyber Threat Intelligence", "Security Visualization",
-            "Full-Stack Basics", "Creative Tech (p5.js)"
-        ]
-        self.current_focus = "Building practical AI-assisted apps"
-        
-    def current_projects(self):
-        return [
-            "🧠 Mental Health App",
-            "🎮 Smack-the-Snacc Game",
-            "🎵 Audio Visualizer"
-        ]
-    
-    def goals_2025(self):
-        return [
-            "Strengthen AI fundamentals",
-            "Build real-world cybersecurity-focused apps",
-            "Ship more polished projects"
-        ]
+<div align="center">
+
+### 🚀 Programming  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+---
+
+### 🤖 AI & Data  
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+
+---
+
+### 🔐 Cybersecurity  
+<img src="https://img.shields.io/badge/Cyber_Threat_Intelligence-black?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/Security_Visualization-blue?style=for-the-badge"/>
+
+---
+
+### 🌐 Development  
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/>  
+<img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js"/>  
+<img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5dotjs"/>
+
+</div>
